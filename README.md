@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas em Haskell
 
-##Português
+## Português
 
 O código desenvolvido para o gerenciador de tarefas em Haskell foi estruturado para fornecer uma solução funcional e modular para o gerenciamento de tarefas básicas.
 
